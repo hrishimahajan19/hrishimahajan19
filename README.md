@@ -1,56 +1,10 @@
-# Hi there, I'm Satyam Jaiswal 👋
+<h1 align="center">Hi 👋, I'm RUSHIKESH MAHAJAN</h1>
+<h3 align="center">A passionate Back-End Developer from India</h3>
 
-![GIF](URL_TO_YOUR_GIF)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-## 🚀 Backend Development:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-- Immersed in the world of backend development
-- Actively working on various projects, gaining hands-on experience
-- Focused on honing skills to contribute to robust and efficient backend systems
-
-## 📚 Learning Environment:
-
-- Thriving in the excellent learning environment at Geekster
-- Expanding knowledge and making significant strides in my career
-- Leveraging internship experience to enhance expertise in backend development
-
-## 💻 Web Development Opportunities:
-
-- Actively seeking opportunities in web development
-- Java Spring Boot backend developer at Geekster
-- Gaining experience in building robust backend systems using Spring Boot
-
-## 🌟 Passion for Real-World Projects:
-
-- Passionate about web development
-- Eager to apply knowledge and expertise to impactful projects
-- Actively exploring job opportunities to contribute skills and foster growth as a web developer
-
----
-
-- 🔭 I’m currently working on Java projects using Spring Boot framework
-- 🌱 I’m currently learning web development
-- 👯 I’m looking to collaborate on backend projects
-- 🤝 I’m looking for help with any feedback
-- 💬 Ask me about Java, Spring Boot, MySQL, DSA, HTML
-- 📫 How to reach me: [Email](mailto:satyamjaiswal91@gmail.com)
-- 📄 Know about my experiences [here](https://docs.google.com/document/d/1fjtZiwkYJmZNrAQb3vRj0_6ZtGeaoFFgUg40_pZOL3k/edit?usp=sharing)
-- ⚡ Fun fact: I keep exploring the vast world of programming.
-
-Connect with me:
-- [LinkedIn](LINK_TO_YOUR_LINKEDIN_PROFILE)
-- [GitHub](https://github.com/satyam1459)
-
-Languages and Tools:
-- Git
-- HTML5
-- Java
-- MySQL
-- Spring Boot
-- Postman
-- IntelliJ
-- VS Code
-
----
-
-![Contribution Graph](CONTRIBUTION_GRAPH_IMAGE_URL)
