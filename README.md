@@ -21,7 +21,7 @@ I'm a fervent software developer originating from India, fueled by my unwavering
   <img alt="VSCode" height="80" src="https://blog.cloudanalogy.com/wp-content/uploads/2020/03/vsc-01.jpg">
   <img alt="Git Logo" height="80" width="120" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrNey0NJUuet7oxT37OiO795Ldq9G_wpGEaw&usqp=CAU">
 
-- 🔭 I’m currently working on --> I'm also actively involved in frontend development, currently focusing on enhancing user experiences and crafting intuitive interfaces.
+- 🔭 I’m currently working on --> **I'm also actively involved in frontend development, currently focusing on enhancing user experiences and crafting intuitive interfaces**
 
 - 🌱 I’m currently learning --> **Full Stack Web Development**
 
