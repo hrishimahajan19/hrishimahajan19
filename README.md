@@ -37,10 +37,8 @@ I'm a fervent software developer originating from India, fueled by my unwavering
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/01abhishek-sahani/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/01abhishek-sahani/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sahani199890" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/sahani199890" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abhishek_sahani/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/abhishek_sahani/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/1abhisfoyr/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/1abhisfoyr/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rushikesh-mahajan19/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rushikesh-mahajan19/" height="30" width="40" /></a>
+<a href="https://leetcode.com/hrishimahajan19/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/hrishimahajan19/" height="30" width="40" /></a>
 </p>
 
 <h3> 💻 GITHUB STATS</h3>
