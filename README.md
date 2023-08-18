@@ -18,7 +18,6 @@ I'm a fervent software developer originating from India, fueled by my unwavering
   <img alt="MySQL" height="80" src="https://static.techspot.com/images2/downloads/topdownload/2020/01/2020-01-28-ts3_thumbs-c3e.png">
   <img alt="AWS" height="80"width="130" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzHh7PNuA9yT-5EmSjEgAgWIS75qns2X5RgQ&usqp=CAU">
   <img alt="Swagger" height="80" src="https://static1.smartbear.co/swagger/media/blog/swagger-editor-blog_575x300.png?ext=.png">
-<img alt="Termius" height="80" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXnsBo5j-tjCktTgM00WclTU4z0o1dNU2V1Pho-vQHl2WnL3iKZuOL40bmM2ZaM4MmE44&usqp=CAU">
   <img alt="VSCode" height="80" src="https://blog.cloudanalogy.com/wp-content/uploads/2020/03/vsc-01.jpg">
   <img alt="Git Logo" height="80" width="120" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrNey0NJUuet7oxT37OiO795Ldq9G_wpGEaw&usqp=CAU">
 
@@ -26,7 +25,7 @@ I'm a fervent software developer originating from India, fueled by my unwavering
 
 - 🌱 I’m currently learning --> **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at --> (https://github.com/Sahani199890)
+- 👨‍💻 All of my projects are available at --> (https://github.com/hrishimahajan19/)
 
 - 📝 I often write articles on --> (https://www.linkedin.com/in/01abhishek-sahani/)
 
