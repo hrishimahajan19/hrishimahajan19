@@ -47,4 +47,4 @@ I'm a fervent software developer originating from India, fueled by my unwavering
 <p align="center">
     <img align="center" width="550px" src="https://user-images.githubusercontent.com/6468571/156074492-bfefbd6c-0545-4f0a-9823-b73b11871e83.png" />
 </p>
-                                                                 ---------------------------
+                                                                
