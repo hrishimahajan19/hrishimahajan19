@@ -21,7 +21,7 @@ I'm a fervent software developer originating from India, fueled by my unwavering
   <img alt="VSCode" height="80" src="https://blog.cloudanalogy.com/wp-content/uploads/2020/03/vsc-01.jpg">
   <img alt="Git Logo" height="80" width="120" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrNey0NJUuet7oxT37OiO795Ldq9G_wpGEaw&usqp=CAU">
 
-- 🔭 I’m currently working on [Blogging Platform API] -->(https://github.com/Sahani199890/bloggingPlatformAPI)
+- 🔭 I’m currently working on --> I'm also actively involved in frontend development, currently focusing on enhancing user experiences and crafting intuitive interfaces.
 
 - 🌱 I’m currently learning --> **Full Stack Web Development**
 
@@ -31,7 +31,7 @@ I'm a fervent software developer originating from India, fueled by my unwavering
 
 - 💬 Ask me about --> **Sprig Boot, Java, DSA, OOP, MySQL**
 
-- 📫 How to reach me --> **sahani199890@gmail.com**
+- 📫 How to reach me --> **hrishimahajan19@gmail.com**
 
 - 📄 Resume --><a href="https://drive.google.com/file/d/1_WsfEZ_N4c7hviUyAQssGQ9ADBZngpkl/view?usp=drive_link"> <img height="100" src="https://cdn.iconscout.com/icon/free/png-256/resume-1956282-1650445.png"></a>
 
