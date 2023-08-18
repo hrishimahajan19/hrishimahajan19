@@ -27,13 +27,13 @@ I'm a fervent software developer originating from India, fueled by my unwavering
 
 - 👨‍💻 All of my projects are available at --> (https://github.com/hrishimahajan19/)
 
-- 📝 I often write articles on --> (https://www.linkedin.com/in/01abhishek-sahani/)
+- 📝 I often write articles on --> (https://www.linkedin.com/in/rushikesh-mahajan19/)
 
 - 💬 Ask me about --> **Sprig Boot, Java, DSA, OOP, MySQL**
 
 - 📫 How to reach me --> **sahani199890@gmail.com**
 
-- 📄 Resume --><a href="https://drive.google.com/file/d/1igO8oLeIBQ6M3cDSsx7LYjuLDjGkLrxt/view?usp=share_link"> <img height="100" src="https://cdn.iconscout.com/icon/free/png-256/resume-1956282-1650445.png"></a>
+- 📄 Resume --><a href="[https://drive.google.com/file/d/1igO8oLeIBQ6M3cDSsx7LYjuLDjGkLrxt/view?usp=share_link](https://drive.google.com/file/d/1_WsfEZ_N4c7hviUyAQssGQ9ADBZngpkl/view?usp=drive_link)"> <img height="100" src="https://cdn.iconscout.com/icon/free/png-256/resume-1956282-1650445.png"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
