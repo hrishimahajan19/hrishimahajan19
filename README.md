@@ -44,10 +44,6 @@ I'm a fervent software developer originating from India, fueled by my unwavering
 <h3> 💻 GITHUB STATS</h3>
 <p align="center"><a href="#"><img alt="Rushi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrishimahajan19&show_icons=true&theme=merko" height="192px" width="360px"></a><br>
 </p>
-  <p align="center">
-  <a href="#"><img alt="Rushi's Github Stats" src=https://github-readme-stats.vercel.app/api?username=hrishimahaja19&theme=merko&show_icons=true" height="192px" width="430px"></a>
-  </p>
-
 <p align="center">
     <img align="center" width="550px" src="https://user-images.githubusercontent.com/6468571/156074492-bfefbd6c-0545-4f0a-9823-b73b11871e83.png" />
 </p>
