@@ -10,7 +10,7 @@ I'm a fervent software developer originating from India, fueled by my unwavering
 </h3>
 
 <h2> DESCRIPTION</h2>
-<h3> Software developer proficient in Java, Spring Boot, and SQL. Skilled in designing and implementing complex systems, debugging, and problem-solving. Passionate about developing clean and efficient code and constantly expanding my knowledge of new technologies.Done number of projects on Java and Spring Boot.Have hands on experience on tools such as IntelliJ, VSCode, AWS, Postman, Termius, Swagger, etc.</h3>
+<h3> Experienced software developer with expertise in Java, Spring Boot, and SQL. Skilled in creating and managing intricate systems, troubleshooting, and finding solutions. Enthusiastic about crafting organized and effective code while continuously learning about the latest technologies. Completed several projects using Java and Spring Boot. Proficient in tools like IntelliJ, VSCode, AWS, Postman, and Swagger.</h3>
 <h2>Tools Used</h2>
 <p> 
   <img alt="IntelliJ" height="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png">
