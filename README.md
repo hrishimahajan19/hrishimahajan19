@@ -42,20 +42,11 @@ I'm a fervent software developer originating from India, fueled by my unwavering
 </p>
 
 <h3> 💻 GITHUB STATS</h3>
-<p align="center"><a href="#"><img alt="Rushi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahani199890&show_icons=true&theme=merko" height="192px" width="360px"></a><br>
+<p align="center"><a href="#"><img alt="Rushi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrishimahajan19&show_icons=true&theme=merko" height="192px" width="360px"></a><br>
 </p>
   <p align="center">
-  <a href="#"><img alt="Rushi's Github Stats" src=https://github-readme-stats.vercel.app/api?username=sahani199890&theme=merko&show_icons=true" height="192px" width="430px"></a>
+  <a href="#"><img alt="Rushi's Github Stats" src=https://github-readme-stats.vercel.app/api?username=hrishimahaja19n&theme=merko&show_icons=true" height="192px" width="430px"></a>
   </p>
-  
-
-<details>	
-  <summary><b> Github Streaks 🔥</b></summary><br>
-  <p align="center">
-  <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=sahani199890&hide_border=true&theme=merko"></a></p>
-</details>
-
-<p align="center">LUCKY VISITOR NUMBER</br><img title="title" align="center" alt="sahani199890" width="200" src="https://profile-counter.glitch.me/sahani199890/count.svg" /></p>
 
 <p align="center">
     <img align="center" width="550px" src="https://user-images.githubusercontent.com/6468571/156074492-bfefbd6c-0545-4f0a-9823-b73b11871e83.png" />
