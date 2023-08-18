@@ -1,10 +1,55 @@
-<h1 align="center">Hi 👋, I'm RUSHIKESH MAHAJAN</h1>
-<h3 align="center">A passionate Back-End Developer from India</h3>
+# GIF: Hello World, I'm Abhishek Sahani! 🌎 🚀
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+![India Flag](INDIA_FLAG_GIF_URL)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+## Description
+
+I am an enthusiastic software developer hailing from India 🇮🇳. I specialize in Java, Spring Boot, and SQL. My skills include designing and implementing complex systems, debugging, and problem-solving. I'm passionate about developing clean and efficient code and constantly expanding my knowledge of new technologies. I have completed numerous projects on Java and Spring Boot and have hands-on experience with tools such as IntelliJ, VSCode, AWS, Postman, Termius, and Swagger.
+
+## Tools Used
+
+IntelliJ | Postman | MySQL | AWS | Swagger | Termius | VSCode | Git
+
+## 🔭 Currently Working On
+
+[**Blogging Platform API**](https://github.com/Sahani199890/bloggingPlatformAPI) - Simplifying the process of connecting and communicating with others through streamlined messaging, following, and sharing features while providing secure and reliable database storage.
+
+## 🌱 Currently Learning
+
+Full Stack Web Development
+
+## 👨‍💻 Projects
+
+All of my projects are available on my [GitHub profile](https://github.com/Sahani199890).
+
+## 📝 Articles
+
+I often write articles on [LinkedIn](https://www.linkedin.com/in/01abhishek-sahani/).
+
+## 💬 Ask Me About
+
+Spring Boot | Java | DSA | OOP | MySQL
+
+## 📫 How to Reach Me
+
+Email: sahani199890@gmail.com
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/01abhishek-sahani/)
+- [HackerRank](https://www.hackerrank.com/sahani199890)
+- [LeetCode](https://leetcode.com/abhishek_sahani/)
+- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/1abhisfoyr/)
+
+## 💻 GitHub Stats
+
+![Abhishek Sahani's Top Languages](TOP_LANGUAGES_IMAGE_URL)
+
+## GitHub Streaks 🔥
+
+![GitHub Streaks](STREAKS_IMAGE_URL)
+
+## Lucky Visitor Number
+
+sahani199890
 
