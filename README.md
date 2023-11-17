@@ -33,7 +33,7 @@ I'm a fervent software developer originating from India, fueled by my unwavering
 
 - 📫 How to reach me --> **hrishimahajan19@gmail.com**
 
-- 📄 Resume --><a href="https://drive.google.com/file/d/1_WsfEZ_N4c7hviUyAQssGQ9ADBZngpkl/view?usp=drive_link"> <img height="100" src="https://cdn.iconscout.com/icon/free/png-256/resume-1956282-1650445.png"></a>
+- 📄 Resume --><a href="https://drive.google.com/file/d/1E5v6_ZvUgI1z5hIQYnoZWm8vSczpxQE0/view?usp=drive_link"> <img height="100" src="https://cdn.iconscout.com/icon/free/png-256/resume-1956282-1650445.png"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
