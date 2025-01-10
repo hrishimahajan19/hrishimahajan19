@@ -30,8 +30,9 @@
 <h2>✨ About Me</h2>
 <h3>👨‍💻 Experienced software developer with expertise in:</h3>
 <ul>
-  <li><b>Languages:</b> Java, SQL</li>
+  <li><b>Languages:</b>JavaScript,Java,SQL, Node.js</li>
   <li><b>Frameworks:</b> Spring Boot</li>
+  <li><b>Libraries:</b> React.js</li>
   <li><b>Tools:</b> IntelliJ IDEA, Postman, Swagger, MySQL, AWS, VSCode</li>
 </ul>
 <h3>
@@ -68,8 +69,7 @@
 <p>
   📂 <b>Projects:</b> Check out my work on 
   <a href="https://github.com/hrishimahajan19/">GitHub</a>.
-  <br>📝 <b>Articles:</b> Read my articles on 
-  <a href="https://www.linkedin.com/in/rushikesh-mahajan19/">LinkedIn</a>.
+  
 </p>
 
 ---
